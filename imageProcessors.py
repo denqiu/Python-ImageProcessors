@@ -5,8 +5,6 @@ from tkinter.colorchooser import askcolor
 from pathlib import Path
 from cv2 import *
 import numpy as np, os, math
-from nt import remove
-from _ast import If
          
 def parentDirectory(filePath):
     return os.path.dirname(filePath)
