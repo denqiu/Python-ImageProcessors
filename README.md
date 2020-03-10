@@ -4,8 +4,8 @@
 # Current processing operations in working order:
   # Resize
   # Invert
-  # RGB Multiplication - multiplying the rgb values of each image's pixels by the given rgb values
+  # RGB Multiplication - Multiplying the rgb values of each image's pixels by the given rgb values
   # Contrast
   # Convolve -- Box and Gaussian blurs, Sharpening, Horizontal and Vertical Sobels
-  # Tone Mapping - mapping the tone of an image to another image
+  # Tone Mapping - Mapping the tone color of an image to another image
   # Bilateral Filter
