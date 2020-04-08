@@ -10,5 +10,6 @@
   # Tone Mapping - Mapping the tone color of an image to another image
   # Bilateral Filter
   # Under Adjust images --> Advanced
-  # Pixelate, Warp perspective, and crop images
+  # Pixelate, Warp perspective, crop images and more
   # Can be used to edit whatever images needed to be edited before using other image editing programs like Photoshop
+  
