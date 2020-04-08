@@ -9,3 +9,6 @@
   # Convolve -- Box and Gaussian blurs, Sharpening, Horizontal and Vertical Sobels
   # Tone Mapping - Mapping the tone color of an image to another image
   # Bilateral Filter
+  # Under Adjust images --> Advanced
+  # Pixelate, Warp perspective, and crop images
+  # Can be used to edit whatever images needed to be edited before using other image editing programs like Photoshop
