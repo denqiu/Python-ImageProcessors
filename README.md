@@ -12,4 +12,5 @@
   # Under Adjust images --> Advanced
   # Pixelate, Warp perspective, crop images and more
   # Can be used to edit whatever images needed to be edited before using other image editing programs like Photoshop
-  
+  ![Building Extension](https://github.com/dwq9172/Python-ImageProcessors/blob/master/buildingExtensionComposite.png)
+  ![Multiple Games Crossover](https://github.com/dwq9172/Python-ImageProcessors/blob/master/staticProject.png)
